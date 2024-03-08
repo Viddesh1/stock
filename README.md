@@ -43,6 +43,6 @@ The objective of this project is to:
 
 ## How to Use
 
-1. Open the notebook in Google Colab or Kaggle.
+1. Open the notebook in Local machine, Google Colab or Kaggle.
 2. Run the cells in the notebook to retrieve and analyze the data.
 3. View the plots and analysis results to understand the stock price trends for BPCL.
