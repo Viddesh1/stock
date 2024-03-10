@@ -7,7 +7,7 @@ This project aims to analyze historical stock price data for BPCL (Bharat Petrol
 	
 | Library   |      Version      |  Description |
 |----------|:-------------:|:------:|
-| Python  | 3.11.2 | For development of RL mini project (.ipynb) |
+| Python  | 3.10.12 | For data analysis of BPCL company from BSE (.ipynb (local machine)) |
 | Numpy  | 1.23.5 | For fast numeric / linear algebra computation |
 | Nasdaq-Data-Link  | 1.0.4| For Accessing BPCL data and API from data.nasdaq.com |
 | matplotlib | 3.8.3 | For Plotting / Visualization |
