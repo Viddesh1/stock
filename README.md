@@ -18,7 +18,7 @@ This project aims to analyze historical stock price data for BPCL (Bharat Petrol
 
 ## Project tree structure
 
-    .
+    stock
     ├── AI Project Test.docx    # Information regarding task.
     ├── config.py               # For saving API key as secrets.
     ├── README.md               # Github README markdown file.
